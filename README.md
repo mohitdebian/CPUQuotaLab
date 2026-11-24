@@ -136,7 +136,7 @@ These commands require the separately archived raw attempt directories at the re
 
 The study has two planned repetitions per initial condition, one missing cell, one hybrid laptop, synthetic CPU work, Unix-socket transport, and no scheduler trace. It supports descriptive associations, not statistical significance or production-service generalization. Completing the original design requires **125 additional valid experiments**: 124 unstarted cells plus the missing initial cell. No additional collection is authorized.
 
-OpenAI Codex assisted with implementation, orchestration, analysis, literature checking, and drafting. Mohit Singh selected and approved the research direction, protocol, and integrity constraints. All material requires his personal technical review before external submission. Nothing has been pushed or published.
+OpenAI Codex assisted with implementation, orchestration, analysis, literature checking, and drafting. Mohit Singh selected and approved the research direction, protocol, and integrity constraints, and remains responsible for the artifact and its scientific claims. Raw experimental datasets remain unpublished, and no DOI has been assigned.
 
 ## Citation, data, and license
 
