@@ -1,0 +1,3 @@
+cell_id,attempt,run_id,status,valid,reasons,started_at,ended_at,elapsed_seconds,bytes
+primary-b02-mixed-moderate-p10-w2,1,v1-primary-b02-mixed-moderate-p10-w2-a01,complete,False,starting package temperature invalid: 63000,2026-11-24T20:16:00.600570+05:30,2026-11-24T20:17:37.601147+05:30,97.001,73663998
+primary-b02-mixed-moderate-p10-w2,2,v1-primary-b02-mixed-moderate-p10-w2-a02,complete,False,starting package temperature invalid: 64000,2026-11-24T20:19:19.136792+05:30,2026-11-24T20:20:56.107992+05:30,96.971,73664050

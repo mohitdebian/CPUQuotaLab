@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use CPUQuotaLab, please cite this preliminary software and research artifact."
+type: software
+title: "CPUQuotaLab: Beyond Core Counts"
+authors:
+  - family-names: "Singh"
+    given-names: "Mohit"
+version: 0.1.0
+license: MIT
+abstract: >-
+  A Rust and Linux cgroup-v2 experimental artifact for studying how fractional
+  CPU quotas, bandwidth periods, and native worker-pool sizing affect
+  end-to-end latency, throughput, request outcomes, and CPU accounting under
+  mixed-duration CPU-bound workloads. Results are preliminary, single-machine,
+  independent undergraduate research and are not peer reviewed.
+keywords:
+  - Linux
+  - cgroup v2
+  - CPU quotas
+  - thread pools
+  - tail latency
+  - systems research

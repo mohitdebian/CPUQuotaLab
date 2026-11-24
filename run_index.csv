@@ -1,0 +1,18 @@
+cell_id,attempt,run_id,status,valid,reasons,started_at,ended_at,elapsed_seconds,bytes
+primary-b01-mixed-stress-p10-w2,1,v1-primary-b01-mixed-stress-p10-w2-a01,complete,True,,2026-11-24T19:51:50.862077+05:30,2026-11-24T19:53:29.235662+05:30,98.374,134715031
+primary-b02-mixed-stress-p10-w1,1,v1-primary-b02-mixed-stress-p10-w1-a01,complete,True,,2026-11-24T19:53:29.236431+05:30,2026-11-24T19:55:07.761518+05:30,98.525,135017241
+primary-b02-mixed-stress-p100-w1,1,v1-primary-b02-mixed-stress-p100-w1-a01,complete,True,,2026-11-24T19:55:07.762922+05:30,2026-11-24T19:56:46.199647+05:30,98.437,135017417
+primary-b01-mixed-moderate-p100-w1,1,v1-primary-b01-mixed-moderate-p100-w1-a01,complete,True,,2026-11-24T19:56:46.200468+05:30,2026-11-24T19:58:23.249215+05:30,97.049,73617702
+primary-b02-mixed-moderate-p100-w2,1,v1-primary-b02-mixed-moderate-p100-w2-a01,complete,True,,2026-11-24T19:58:23.250041+05:30,2026-11-24T20:00:00.371955+05:30,97.122,73664038
+primary-b01-mixed-moderate-p100-w2,1,v1-primary-b01-mixed-moderate-p100-w2-a01,complete,True,,2026-11-24T20:00:10.373797+05:30,2026-11-24T20:01:47.629159+05:30,97.255,73664818
+primary-b01-mixed-stress-p100-w2,1,v1-primary-b01-mixed-stress-p100-w2-a01,complete,True,,2026-11-24T20:01:47.630045+05:30,2026-11-24T20:03:25.857035+05:30,98.227,134693578
+primary-b02-mixed-stress-p10-w2,1,v1-primary-b02-mixed-stress-p10-w2-a01,complete,True,,2026-11-24T20:03:25.857892+05:30,2026-11-24T20:05:04.062135+05:30,98.204,134714685
+primary-b01-mixed-moderate-p10-w2,1,v1-primary-b01-mixed-moderate-p10-w2-a01,complete,True,,2026-11-24T20:05:14.063847+05:30,2026-11-24T20:06:51.131464+05:30,97.068,73663774
+primary-b01-mixed-moderate-p10-w1,1,v1-primary-b01-mixed-moderate-p10-w1-a01,complete,True,,2026-11-24T20:07:01.133180+05:30,2026-11-24T20:08:38.305896+05:30,97.173,73618671
+primary-b01-mixed-stress-p10-w1,1,v1-primary-b01-mixed-stress-p10-w1-a01,complete,True,,2026-11-24T20:08:48.308047+05:30,2026-11-24T20:10:26.846676+05:30,98.539,135018194
+primary-b01-mixed-stress-p100-w1,1,v1-primary-b01-mixed-stress-p100-w1-a01,complete,True,,2026-11-24T20:10:36.848460+05:30,2026-11-24T20:12:15.418586+05:30,98.57,135018071
+primary-b02-mixed-stress-p100-w2,1,v1-primary-b02-mixed-stress-p100-w2-a01,complete,True,,2026-11-24T20:12:25.420547+05:30,2026-11-24T20:14:03.590608+05:30,98.17,134693162
+primary-b02-mixed-moderate-p10-w1,1,v1-primary-b02-mixed-moderate-p10-w1-a01,complete,True,,2026-11-24T20:14:13.592463+05:30,2026-11-24T20:15:50.598903+05:30,97.006,73617795
+primary-b02-mixed-moderate-p10-w2,1,v1-primary-b02-mixed-moderate-p10-w2-a01,complete,False,starting package temperature invalid: 63000,2026-11-24T20:16:00.600570+05:30,2026-11-24T20:17:37.601147+05:30,97.001,73663998
+primary-b02-mixed-moderate-p100-w1,1,v1-primary-b02-mixed-moderate-p100-w1-a01,complete,True,,2026-11-24T20:17:37.601972+05:30,2026-11-24T20:19:14.712016+05:30,97.11,73618654
+primary-b02-mixed-moderate-p10-w2,2,v1-primary-b02-mixed-moderate-p10-w2-a02,complete,False,starting package temperature invalid: 64000,2026-11-24T20:19:19.136792+05:30,2026-11-24T20:20:56.107992+05:30,96.971,73664050

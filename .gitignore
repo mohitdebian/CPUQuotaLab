@@ -1,0 +1,16 @@
+/target/
+/.venv/
+__pycache__/
+*.pyc
+/tmp/
+results/pilot/*/
+results/smoke/*/
+results/raw/*/
+results/processed/*/
+results/confirmatory/attempts/*/
+!results/pilot/.gitkeep
+!results/smoke/.gitkeep
+!results/raw/.gitkeep
+!results/processed/.gitkeep
+figures/*.png
+figures/*.pdf

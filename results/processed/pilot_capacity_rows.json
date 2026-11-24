@@ -1,0 +1,222 @@
+[
+  {
+    "run": "final-refine-mixed-p100-w1-r1900",
+    "workload": "mixed",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 1900,
+    "completion_fraction": 1.0,
+    "goodput": 1899.8666666666666,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p10-w2-r2600",
+    "workload": "mixed",
+    "period_ms": 10,
+    "workers": 2,
+    "rate": 2600,
+    "completion_fraction": 1.0,
+    "goodput": 2600.0,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p100-w1-r2000",
+    "workload": "mixed",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 2000,
+    "completion_fraction": 1.0,
+    "goodput": 1999.8,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p100-w2-r2600",
+    "workload": "mixed",
+    "period_ms": 100,
+    "workers": 2,
+    "rate": 2600,
+    "completion_fraction": 1.0,
+    "goodput": 2600.0,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p10-w1-r1800",
+    "workload": "mixed",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 1800,
+    "completion_fraction": 1.0,
+    "goodput": 1797.2,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p100-w1-r2100",
+    "workload": "mixed",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 2100,
+    "completion_fraction": 0.9867301587301587,
+    "goodput": 2047.6,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p100-w1-r1800",
+    "workload": "mixed",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 1800,
+    "completion_fraction": 1.0,
+    "goodput": 1797.2,
+    "generator_valid": false,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p10-w1-r2000",
+    "workload": "mixed",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 2000,
+    "completion_fraction": 1.0,
+    "goodput": 1999.8,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p10-w1-r2100",
+    "workload": "mixed",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 2100,
+    "completion_fraction": 0.9995238095238095,
+    "goodput": 2077.266666666667,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-mixed-p10-w1-r1900",
+    "workload": "mixed",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 1900,
+    "completion_fraction": 1.0,
+    "goodput": 1899.8666666666666,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p100-w2-r4000",
+    "workload": "uniform_141k",
+    "period_ms": 100,
+    "workers": 2,
+    "rate": 4000,
+    "completion_fraction": 0.99685,
+    "goodput": 3934.6,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p10-w1-r2800",
+    "workload": "uniform_141k",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 2800,
+    "completion_fraction": 0.9706666666666667,
+    "goodput": 2664.5333333333333,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p10-w2-r4000",
+    "workload": "uniform_141k",
+    "period_ms": 10,
+    "workers": 2,
+    "rate": 4000,
+    "completion_fraction": 0.9860666666666666,
+    "goodput": 3891.0666666666666,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p100-w2-r3800",
+    "workload": "uniform_141k",
+    "period_ms": 100,
+    "workers": 2,
+    "rate": 3800,
+    "completion_fraction": 1.0,
+    "goodput": 3799.9333333333334,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p100-w1-r2600",
+    "workload": "uniform_141k",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 2600,
+    "completion_fraction": 1.0,
+    "goodput": 2600.0,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p10-w1-r2700",
+    "workload": "uniform_141k",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 2700,
+    "completion_fraction": 0.9970123456790123,
+    "goodput": 2638.6,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p10-w1-r2600",
+    "workload": "uniform_141k",
+    "period_ms": 10,
+    "workers": 1,
+    "rate": 2600,
+    "completion_fraction": 1.0,
+    "goodput": 2600.0,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p10-w2-r3800",
+    "workload": "uniform_141k",
+    "period_ms": 10,
+    "workers": 2,
+    "rate": 3800,
+    "completion_fraction": 1.0,
+    "goodput": 3799.9333333333334,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p100-w1-r2800",
+    "workload": "uniform_141k",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 2800,
+    "completion_fraction": 0.9804047619047619,
+    "goodput": 2691.8,
+    "generator_valid": true,
+    "ac_valid": true
+  },
+  {
+    "run": "final-refine-uniform-p100-w1-r2700",
+    "workload": "uniform_141k",
+    "period_ms": 100,
+    "workers": 1,
+    "rate": 2700,
+    "completion_fraction": 1.0,
+    "goodput": 2678.3333333333335,
+    "generator_valid": true,
+    "ac_valid": true
+  }
+]
